@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use or discuss this serious-game prototype, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: "Pantaleo"
+    given-names: "Adriano"
+title: "Sahel Climate Actions: A Great Green Wall Multi-Actor Serious Game Prototype"
+version: "2.5-human-playtest-candidate"
+date-released: 2026-08-18
+abstract: >-
+  A five-role cooperative-competitive institutional serious-game prototype for
+  Tabletop Simulator modelling coordination among public authority, technical
+  assistance, territorial investment, agriculture and pastoral systems under
+  climate, water and land-restoration pressures in the Sahel. The release
+  contains the TTS human-playtest candidate and a Lua Guided Turn Manager.
+keywords:
+  - "serious games"
+  - "tabletop simulation"
+  - "Tabletop Simulator"
+  - "Great Green Wall"
+  - "Sahel"
+  - "climate resilience"
+  - "land restoration"
+  - "pastoral mobility"
+  - "agriculture"
+  - "institutional coordination"
+  - "climate services"
