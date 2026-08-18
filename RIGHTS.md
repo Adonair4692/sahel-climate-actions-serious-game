@@ -1,35 +1,35 @@
-# Rights and Attribution
+# Rights and Licensing
 
-## Current release posture
+Copyright © 2026 Adriano Pantaleo.
 
-This Human Playtest Candidate is published for demonstration, citation, research discussion and controlled playtest preparation.
+## Documentation, game materials and media
 
-No open-source or open-content license is granted by this package at this stage. In the absence of a specific license, copyright and reuse permissions remain reserved by the relevant rights holders.
+Unless a third-party source is explicitly identified, the documentation, game texts, original game-design materials, diagrams, images and media contained in this repository are licensed under:
 
-## Independent prototype statement
+**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).**
 
-**Sahel Climate Actions** is an independently developed serious-game prototype. Institutional names, programmes and policy contexts appear as subject matter or simulated actor roles. Their appearance does not establish sponsorship, commissioning, approval or endorsement.
+You may share these materials provided that appropriate attribution is given, the use is non-commercial, and modified or adapted versions are not distributed.
 
-The public presentation should avoid official-looking claims, badges or wording that could imply an institutional relationship unless documentary authority exists for that claim.
+## Lua source code
 
-## Third-party names and marks
+The **Lua Guided Turn Manager** and other original source code contained under `src/` are:
 
-Names such as FAO, Great Green Wall, AGRHYMET and CILSS may be protected names, marks or identifiers belonging to their respective organizations. Their use in the prototype should remain descriptive and contextual.
+**Copyright © 2026 Adriano Pantaleo. All rights reserved.**
 
-## Tabletop Simulator
+Copying, redistribution, modification, adaptation, sublicensing, commercial use, or incorporation into other software requires prior written permission from the copyright holder, except where permitted by applicable law.
 
-Tabletop Simulator is a third-party platform. This repository package does not include or grant rights to the Tabletop Simulator application or third-party platform assets.
+## Institutional clarification
 
-## Future license review
+**Sahel Climate Actions** is an independent serious-game research and design prototype.
 
-Before a broad redistributable or Workshop release, perform an asset-by-asset review covering:
+References to FAO, the Great Green Wall, AGRHYMET/CILSS and other institutions, programmes or public sources identify the policy, scientific and operational context used in the design. They do not imply institutional endorsement, sponsorship or official product status.
 
-1. original game text and code;
-2. board and card visual assets;
-3. fonts and icons;
-4. institutional names, marks and logos;
-5. third-party textures or platform assets;
-6. screenshots and recordings;
-7. any external data or source material embedded in distributable assets.
+## Citation
 
-A later release may add a specific code/content license once that review is complete.
+Version 2.5 — TTS Human Playtest Candidate:
+
+DOI: 10.5281/zenodo.21998119
+
+All versions:
+
+DOI: 10.5281/zenodo.21998118
