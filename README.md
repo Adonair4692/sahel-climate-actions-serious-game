@@ -1,6 +1,12 @@
 # Sahel Climate Actions
 ## A Great Green Wall Multi-Actor Serious Game Prototype
 
+![Status](https://img.shields.io/badge/status-human%20playtest%20candidate-orange)
+![Platform](https://img.shields.io/badge/platform-Tabletop%20Simulator-blue)
+
+**Citable release:** [v2.5-human-playtest-candidate](https://github.com/Adonair4692/sahel-climate-actions-serious-game/releases/tag/v2.5-human-playtest-candidate)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21998119-blue)](https://doi.org/10.5281/zenodo.21998119)
+
 **Version:** 2.5 — TTS Human Playtest Candidate  
 **Release date:** 18 August 2026  
 **Designer & Developer:** Adriano Pantaleo  
