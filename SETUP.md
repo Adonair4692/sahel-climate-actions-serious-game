@@ -1,12 +1,12 @@
 # Repository Setup Checklist
 
-Recommended repository name:
+Current public repository:
 
-`sahel-climate-actions-serious-game`
+[`Adonair4692/sahel-climate-actions-serious-game`](https://github.com/Adonair4692/sahel-climate-actions-serious-game)
 
-Recommended first public tag/release:
+Published pre-release (18 August 2026):
 
-`v2.5-human-playtest-candidate`
+[`v2.5-human-playtest-candidate`](https://github.com/Adonair4692/sahel-climate-actions-serious-game/releases/tag/v2.5-human-playtest-candidate)
 
 ## Repository description
 
@@ -25,16 +25,15 @@ Five-actor Sahel / Great Green Wall serious-game prototype for Tabletop Simulato
 - agriculture
 - lua
 
-## Before making the repository public
+## Current public release status
 
-- review `RIGHTS.md`;
-- confirm the public naming/disclaimer language;
-- decide whether the release should expose all included DOCX files;
-- add ORCID to citation metadata if desired;
-- create the repository and record its URL;
-- connect Zenodo only after the repository exists;
-- reserve or issue the DOI and propagate it in a later metadata commit;
-- keep the full internal Master Package outside the public repository.
+- Rights and redistribution terms: [`RIGHTS.md`](RIGHTS.md).
+- Institutional naming/disclaimer: [`publication/naming-disclaimer.md`](publication/naming-disclaimer.md).
+- Citation metadata: [`CITATION.cff`](CITATION.cff); version DOI: [10.5281/zenodo.21998119](https://doi.org/10.5281/zenodo.21998119).
+- Public package includes the v2.5 documents and five Actor Dossiers; the full internal Master Package remains separate.
+- TTS setup checklist: [`docs/tts/setup.md`](docs/tts/setup.md); script installation guidance: [`docs/tts/guide.md`](docs/tts/guide.md); Lua source: [`src/turn-manager-v0.4.lua`](src/turn-manager-v0.4.lua).
+- **TTS save/checkpoint and Workshop distribution are not included in this repository.** The setup checklist assumes access to an existing assembled v2.5 save/checkpoint.
+- Live playtest and external-load validation remain pending; see [`playtest/status.md`](playtest/status.md).
 
 ## Suggested release asset
 
