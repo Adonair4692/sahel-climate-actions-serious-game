@@ -975,6 +975,8 @@ function onLoad(saved_data)
     end
 
     clampState()
+    -- Reset confirmation must never remain armed across a save/load cycle.
+    state.resetArmed = false
     UI.setXml(UI_XML)
     Wait.frames(refreshUI, 2)
 end
