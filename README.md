@@ -100,7 +100,7 @@ The game is a simulation and learning artifact rather than an operational foreca
 
 ## Citation
 
-Machine-readable citation metadata are provided in [`CITATION.cff`](CITATION.cff). Zenodo metadata are staged in [`.zenodo.json`](.zenodo.json). The DOI field will be added after reservation or publication of the archival release.
+Machine-readable citation metadata are provided in [`CITATION.cff`](CITATION.cff). The v2.5 Human Playtest Candidate has a version-specific DOI: [10.5281/zenodo.21998119](https://doi.org/10.5281/zenodo.21998119). The DOI for all versions is [10.5281/zenodo.21998118](https://doi.org/10.5281/zenodo.21998118).
 
 ## Rights and redistribution
 
