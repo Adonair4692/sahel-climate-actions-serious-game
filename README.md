@@ -104,7 +104,7 @@ Machine-readable citation metadata are provided in [`CITATION.cff`](CITATION.cff
 
 ## Rights and redistribution
 
-This candidate currently carries **no open-source or open-content license**. See [`RIGHTS.md`](RIGHTS.md) before redistributing source, documents or visual assets.
+Documentation, original game materials and media are provided under **CC BY-NC-ND 4.0**, subject to third-party rights. Lua source code under `src/` remains **all rights reserved**. See [`RIGHTS.md`](RIGHTS.md) for the applicable terms before reuse or redistribution.
 
 ## Suggested repository topics
 
