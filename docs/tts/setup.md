@@ -1,5 +1,11 @@
 # TTS Setup Checklist v2.5
 
+## Scope and required materials
+
+This checklist verifies an **existing assembled v2.5 Tabletop Simulator save/checkpoint**. The public repository provides documentation and the [Guided Turn Manager Lua source](../../src/turn-manager-v0.4.lua), but **does not include the assembled TTS save/checkpoint, the full card-production assets or a Workshop package**. It is therefore not a stand-alone build or installation guide.
+
+Step 7 relies on `05_COMPONENTS_AND_INVENTORY`, an **internal Master Package register absent from this public repository**. Full marker and State Block inventory verification requires access to that register. Public references include the [Setup & Season Reference](../setup-season-v2.5.docx), [Canonical Timing Reference](../timing-v2.5.docx), and [Lua installation notes](guide.md).
+
 1. Load the v2.5 Human Playtest Candidate save/checkpoint.
 2. Verify Common Board and five Actor Mats are locked and readable.
 3. Verify six Herds: CW, SW, CC, SC, CE, SE.
